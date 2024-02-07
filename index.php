@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>SALAM ASELOLE PEDOT!</h1>
+    <h2>SALAM BOOYAH!</h2>
 </body>
 </html>
